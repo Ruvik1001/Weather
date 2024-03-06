@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083219895479",
+    "project_id": "weather-db3d3",
+    "storage_bucket": "weather-db3d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083219895479:android:19b80e845ec7f36a67d932",
+        "android_client_info": {
+          "package_name": "com.engineers.weather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtfctK0ulVFwXzmh-KRqfhKyFEfOj8eqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
